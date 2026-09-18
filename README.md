@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy [Tu Nombre] 👋</h1>
+<h1 align="center">¡Hola! Soy Edhts Prado 👋</h1>
 <p align="center">Estudiante de Ingeniería de Sistemas · UNSCH · Desarrollo Web</p>
 
 <p align="center">
